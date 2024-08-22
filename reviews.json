@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Very knowledgeable and engaging. Sometimes a bit fast-paced, but overall great."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Clear explanations and very approachable. Makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Michael Lee",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Good content, but lectures can be a bit dry. Assignments are challenging."
+      },
+      {
+        "professor": "Dr. Sarah Brown",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Very thorough and well-organized. Labs are well-structured and informative."
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Lectures are monotonous and not very engaging. Exams are tough."
+      },
+      {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Amazing professor! Makes the subject really interesting and fun."
+      },
+      {
+        "professor": "Dr. Robert Garcia",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Thought-provoking lectures and interesting discussions."
+      },
+      {
+        "professor": "Dr. Jennifer Miller",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Decent professor, but the material can be a bit confusing at times."
+      },
+      {
+        "professor": "Dr. Charles Davis",
+        "subject": "English",
+        "stars": 5,
+        "review": "Very passionate about literature. Encourages deep thinking and discussion."
+      },
+      {
+        "professor": "Dr. Patricia Rodriguez",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Engaging and knowledgeable. Keeps the class interesting with current events."
+      },
+      {
+        "professor": "Dr. James Thompson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Interesting material, but lectures can be a bit disorganized."
+      },
+      {
+        "professor": "Dr. Maria Hernandez",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Excellent professor! Makes every class thought-provoking and engaging."
+      },
+      {
+        "professor": "Dr. William Martinez",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Difficult to follow at times. Assignments are very challenging."
+      },
+      {
+        "professor": "Dr. Elizabeth Clark",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Very knowledgeable and enthusiastic. The course is well-organized."
+      },
+      {
+        "professor": "Dr. Richard Lewis",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and insightful. Makes art history come alive."
+      },
+      {
+        "professor": "Dr. Barbara Walker",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Great professor with a lot of real-world experience. Interesting lectures."
+      },
+      {
+        "professor": "Dr. Christopher Hall",
+        "subject": "Music Theory",
+        "stars": 3,
+        "review": "Good content, but the pace is a bit slow. Exams are fair."
+      },
+      {
+        "professor": "Dr. Susan Young",
+        "subject": "Nursing",
+        "stars": 5,
+        "review": "Excellent professor! Very supportive and knowledgeable."
+      },
+      {
+        "professor": "Dr. Thomas King",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Very technical and detailed. Helps prepare you well for the field."
+      },
+      {
+        "professor": "Dr. Nancy Wright",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Decent professor, but lectures can be a bit boring. Assignments are useful."
+      }
+    ]
+  }
+  
