@@ -1,6 +1,5 @@
 import { useState } from 'react';
-import Navbar from './Navbar'; // Adjust the path as needed
-
+import Navbar from './Navbar'; 
 function HomePage() {
   const [link, setLink] = useState('');
   const [result, setResult] = useState(null);
@@ -26,7 +25,7 @@ function HomePage() {
 
   return (
     <div className="min-h-[calc(100vh-64px)] flex flex-col">
-      <Navbar /> {/* Include the Navbar component */}
+      <Navbar /> 
       <div className="flex flex-col items-center justify-center p-4 flex-grow">
         <h1 className="text-4xl font-bold mb-8">EduEval</h1>
         <form onSubmit={handleSubmit} className="w-full max-w-md mb-8">

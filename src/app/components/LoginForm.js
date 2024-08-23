@@ -5,7 +5,6 @@ import { motion } from "framer-motion";
 export default function LoginForm() {
   return (
     <div className="min-h-screen flex items-center justify-center relative overflow-hidden">
-      {/* Background Image */}
       <Image
         src="/edubg.jpg"
         alt="Background"
@@ -14,7 +13,6 @@ export default function LoginForm() {
         className="absolute inset-0 z-0"
         priority
       />
-      {/* Content Container */}
       <motion.div
         className="relative z-10 flex flex-row w-full max-w-5xl bg-gray-800 bg-opacity-80 p-8 rounded-lg shadow-lg"
         initial={{ x: "-100vw", opacity: 0 }}
@@ -25,7 +23,6 @@ export default function LoginForm() {
         <div className="w-1/2 flex items-center justify-center">
           <SignIn routing="hash" />
         </div>
-        {/* Right Side - Scrollable Text Box */}
         <motion.div
           className="w-1/2 p-4 bg-gray-900 rounded-md shadow-inner"
           initial={{ opacity: 0 }}
